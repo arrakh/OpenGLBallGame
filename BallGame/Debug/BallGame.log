@@ -1,0 +1,5 @@
+﻿  Source.cpp
+D:\Projectss\BallGame\BallGame\Source.cpp(79,11): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Projectss\BallGame\BallGame\Source.cpp(80,11): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Projectss\BallGame\BallGame\Source.cpp(81,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  BallGame.vcxproj -> D:\Projectss\BallGame\Debug\BallGame.exe
